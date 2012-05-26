@@ -48,14 +48,14 @@ pomExtra := (
 	    </license>
 	 </licenses>
 	 <scm>
-	    <url>git@github.com:d6y/liftmodules-paypal.git</url>
-	    <connection>scm:git:git@github.com:d6y/liftmodules-paypal.git</connection>
+	    <url>git@github.com:liftmodules/paypal.git</url>
+	    <connection>scm:git:git@github.com:liftmodules/paypal.git</connection>
 	 </scm>
 	 <developers>
 	    <developer>
-	      <id>d6y</id>
-	      <name>Richard Dallaway</name>
-	      <url>http://richard.dallaway.com</url>
+	      <id>liftmodules</id>
+	      <name>Lift Team</name>
+	      <url>http://www.liftmodules.net</url>
 	 	</developer>
 	 </developers> 
  )
